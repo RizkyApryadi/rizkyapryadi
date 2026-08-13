@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Rizky Apryadi
 
-<!--
-**RizkyApryadi/rizkyapryadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Developer  
+🚀 Backend & Web Development  
+📍 Indonesia
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP
+- Laravel
+- React
+- JavaScript
+- MySQL
+- Git
+
+### 📫 Connect With Me
+
+- LinkedIn
+- GitHub
