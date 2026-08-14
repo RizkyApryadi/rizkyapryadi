@@ -70,23 +70,37 @@ Enterprise Resource Planning system with REST API architecture and multiple busi
 
 </div>
 
+````md
 <br>
 
-## 🔥 GitHub Streak
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rizkyapryadi&theme=tokyonight&hide_border=true" />
+
+```bash
+┌──(rizky㉿developer)-[~/projects]
+└─$ cat developer.config
+
+> name       : Rizky Apryadi
+> role       : Software Developer
+> stack      : Laravel • React • Node.js
+> database   : MySQL
+> tools      : Git • Docker • Postman
+> status     : Building & Learning...
+> coffee     : ████████████████ 100%
+
+┌──(rizky㉿developer)-[~/projects]
+└─$ npm run build
+
+✔ Compiling source code...
+✔ Optimizing modules...
+✔ Build completed successfully.
+
+🚀 Ready to ship.
+````
+
 </div>
 
 <br>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rizkyapryadi/rizkyapryadi/output/github-contribution-grid-snake.svg" />
-</div>
-
-<br>
+```
 
 ## 📈 Contribution Activity
 
