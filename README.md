@@ -61,18 +61,6 @@ Enterprise Resource Planning system with REST API architecture and multiple busi
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rizkyapryadi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkyapryadi&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
-
-````md
-<br>
-
 <div align="center">
 
 ```bash
@@ -95,12 +83,10 @@ Enterprise Resource Planning system with REST API architecture and multiple busi
 ✔ Build completed successfully.
 
 🚀 Ready to ship.
-````
 
 </div>
 
-<br>
-```
+<br> ```
 
 ## 📈 Contribution Activity
 
