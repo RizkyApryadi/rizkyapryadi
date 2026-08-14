@@ -1,3 +1,4 @@
+````md
 <div align="center">
 
 # Hi, I'm Rizky Apryadi 👋
@@ -83,15 +84,18 @@ Enterprise Resource Planning system with REST API architecture and multiple busi
 ✔ Build completed successfully.
 
 🚀 Ready to ship.
+````
 
 </div>
 
-<br> ```
+<br>
 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkyapryadi&theme=tokyo-night&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rizkyapryadi&theme=tokyo-night&hide_border=true" />
+
 </div>
 
 <br>
@@ -105,3 +109,4 @@ Enterprise Resource Planning system with REST API architecture and multiple busi
 **Thanks for visiting my profile! 🚀**
 
 </div>
+```
