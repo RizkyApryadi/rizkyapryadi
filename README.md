@@ -61,7 +61,7 @@ Enterprise Resource Planning system with REST API architecture and multiple busi
 
 <br>
 
-<div align="center">
+<!-- <div align="center"> -->
 
 ```bash
 ┌──(rizky㉿developer)-[~/projects]
@@ -85,7 +85,7 @@ Enterprise Resource Planning system with REST API architecture and multiple busi
 🚀 Ready to ship.
 ```
 
-</div>
+<!-- </div> -->
 
 <br>
 
