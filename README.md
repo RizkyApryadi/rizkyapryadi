@@ -46,20 +46,8 @@ I'm a Software Developer interested in building reliable and scalable web applic
 **Database & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,docker,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,postman,vscode" />
 </p>
-
-<br>
-
-## 🚀 Featured Project
-
-### 🏢 DAXX ERP
-
-Enterprise Resource Planning system with REST API architecture and multiple business modules.
-
-**Tech Stack:** Laravel · PHP · MySQL · REST API
-
-<br>
 
 <!-- <div align="center"> -->
 
